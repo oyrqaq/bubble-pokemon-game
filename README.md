@@ -6,6 +6,9 @@ A Java-based arcade game inspired by Bubble Bobble, featuring Pokemon characters
 
 Players control a hero character who must defeat Pokemon enemies by trapping them in bubbles. The game features 6 levels, multiple enemy types, power-ups, and a high score system.
 
+## Deomo
+![Demo](demo.gif)
+
 ## Features
 
 - 6 unique levels with increasing difficulty
